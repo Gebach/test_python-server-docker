@@ -1,4 +1,4 @@
-# Effective Mobile — Test Task
+# Effective Mobile - Test Task
 
 Простое веб-приложение на Python, развернутое в Docker с использованием Nginx в качестве reverse proxy.
 
@@ -18,8 +18,8 @@
 ## Запуск
 ### 1. Клонировать репозиторий
 ```bash
-    git clone <repo-url>
-    cd effective-mobile-test
+    git clone https://github.com/Gebach/test_python-server-docker.git
+    cd test_python-server-docker
 ```
 
 ### 2. Собрать и запустить
